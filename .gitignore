@@ -1,3 +1,6 @@
 others/
 profiles/
-*.md.markdown
+markdownall/
+*.md
+!README.md
+*.markdown
