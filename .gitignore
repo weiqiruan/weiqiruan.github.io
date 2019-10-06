@@ -1,5 +1,6 @@
 others/
 profiles/
+settings/
 markdownall/
 *.md
 !README.md
